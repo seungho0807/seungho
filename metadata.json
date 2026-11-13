@@ -1,0 +1,6 @@
+{
+  "name": "메가MGC커피 공식 웹사이트",
+  "description": "메가MGC커피(MEGA MGC COFFEE) 브랜드 공식 웹사이트 및 스마트오더/메뉴 탐색 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
